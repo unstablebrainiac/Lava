@@ -1,5 +1,3 @@
-package macros;
-
 import base.LambdaExpression;
 import org.junit.Test;
 
